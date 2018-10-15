@@ -181,7 +181,7 @@ class MY_Miner():
         # 设置服务器
         from email.mime.text import MIMEText
 
-        mail_host = 'smtp.zjvtit.edu.cn'
+        mail_host = '**************'#设置邮箱服务器
         mail_user = '**********'#发件人邮箱
         mail_pas = '*********'#发件人邮箱密码
 
